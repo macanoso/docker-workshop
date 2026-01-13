@@ -31,6 +31,8 @@ docker run -it \
     --chunksize=100000
 ```
 
+4. Then go to the http://localhost:8085/ to play with the tables
+
 
 # **Using local**
 
